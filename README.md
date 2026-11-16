@@ -2,7 +2,10 @@
 Interactive Human Resources Analytics Dashboard built using Tableau to analyze employee demographics, hiring and termination trends, departmental distribution, salary insights, and workforce performance.
 
 # 📊 Human Resources Analytics Dashboard | Tableau
+## 📷 Dashboard Preview
 
+
+- `dashboard-preview.png` – <img width="1416" height="788" alt="Screenshot 2026-10-30 171952" src="https://github.com/user-attachments/assets/ad8b0c6f-7915-4069-b77d-99c732b837bc" />
 ## 📌 Project Overview
 
 What can HR data reveal about an organization's workforce?
@@ -59,10 +62,7 @@ Includes interactive filters and click-to-filter functionality for dynamic data 
 - **Data Analytics** – Exploratory and comparative analysis
 - **Data Storytelling** – Communicating insights through visualizations
 
-## 📷 Dashboard Preview
 
-
-- `dashboard-preview.png` – <img width="1416" height="788" alt="Screenshot 2026-10-30 171952" src="https://github.com/user-attachments/assets/ad8b0c6f-7915-4069-b77d-99c732b837bc" />
 
 
 
